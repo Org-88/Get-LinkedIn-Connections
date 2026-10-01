@@ -24,7 +24,7 @@ It's not a guarantee they'll accept. You still send a normal request yourself.
 
 ## Who it's for
 
-People who want more LinkedIn connections in the US and Canada, without paying for a tool.
+People who want more LinkedIn connections in the US and Canada, without paying for some sketchy service.
 
 ## How to use it
 
